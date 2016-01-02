@@ -17,7 +17,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Name       : MinifySQL.js
 Version    : 1.0.3
-Author     : Alex Moura
 Author URL : www.960.co.za
 */
 
